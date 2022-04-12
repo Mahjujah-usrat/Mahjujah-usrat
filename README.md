@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahjujah-usrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
+<a href="https://https://twitter.com/MahjujahU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahjujah-usrat-vina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahjujah-usrat-vina" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahjujah-usrat-vina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahjujah-usrat-vina" height="30" width="40" /></a>
-<a href="https://fb.com/mahjujah-usrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
-<a href="https://instagram.com/mahjujah-usrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
+<a href="https://https://www.facebook.com/onno.groho.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
+<a href="https://https://www.instagram.com/usratvina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahjujah-usrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahjujah-usrat" height="30" width="40" /></a>
 </p>
 
