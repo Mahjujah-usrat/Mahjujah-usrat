@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Niche Product Website (Full Stack Application)](https://nishe-website.web.app/)
 
-- 🌱 I’m currently learning **React, C++,**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Medical Website (React Application)](https://medico-17407.web.app/)
 
 - 🤝 I’m looking for help with [Simple Booking Website (Full Stack Web Application)](https://travel-turizam.web.app/)
 
-- 💬 Ask me about **Javascript, React, ES6, HTML5,CSS3, SASS,Node JS, Express JS , MongoDB, Firebase. REST API, Material UI, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **Javascript, React, ES6, HTML5,CSS3, SASS,Node JS, Express JS , MongoDB, Firebase. REST API, Material UI, Bootstrap, Tailwind CSS**( Little bit:java,python)
 
 - 📫 How to reach me **mahjujahusrat@gmail.com**
 
